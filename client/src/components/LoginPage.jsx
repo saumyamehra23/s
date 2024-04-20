@@ -24,7 +24,7 @@ const LoginPage = () => {
         backgroundColor={theme.palette.background.alt}
       >
         <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
-          Welcome to Snap-It, the Social Media for Sociopaths!
+          Welcome to YouHelp, Empowering women through guidance, growth, and connection.!
         </Typography>
         <Form />
       </Box>
